@@ -3,6 +3,7 @@ LOG_FILE_IS_UNDEFINED
 # Java.gitignore ##############################################################
 package-info.java
 
+.env
 *.class
 # .*
 
